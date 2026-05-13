@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12 20:44 UTC",
+  "updated": "2026-05-13 00:06 UTC",
   "articles": [
     {
       "category": "Computing",
@@ -33,6 +33,18 @@
     },
     {
       "category": "Computing",
+      "title": "OpenZFS 2.4.2 Released With Linux 7.0 Kernel Support, Many Bug Fixes",
+      "link": "https://www.phoronix.com/news/OpenZFS-2.4.2-Released",
+      "date": "Tue, 12 May 2026 18:28:56 -0400"
+    },
+    {
+      "category": "Computing",
+      "title": "FreeBSD 15.2 Will Aim For The Nice KDE Desktop Installation Experience",
+      "link": "https://www.phoronix.com/news/FreeBSD-15.2-KDE-Desktop",
+      "date": "Tue, 12 May 2026 17:25:11 -0400"
+    },
+    {
+      "category": "Computing",
       "title": "AMD & Intel Roll Out New Linux Updates For Today's Patch Tuesday",
       "link": "https://www.phoronix.com/news/Patch-Tuesday-May-2026",
       "date": "Tue, 12 May 2026 13:52:07 -0400"
@@ -50,16 +62,10 @@
       "date": "Tue, 12 May 2026 12:55:16 -0400"
     },
     {
-      "category": "Computing",
-      "title": "Running Four Intel Graphics Cards Under Linux On Ubuntu 26.04",
-      "link": "https://www.phoronix.com/review/intel-arc-pro-b70-four",
-      "date": "Tue, 12 May 2026 10:00:00 -0400"
-    },
-    {
-      "category": "Computing",
-      "title": "ARCTIC Fan Controller Driver Expected To Land In Linux 7.2",
-      "link": "https://www.phoronix.com/news/ARCTIC-Fan-Controller-Linux-7.2",
-      "date": "Tue, 12 May 2026 08:27:02 -0400"
+      "category": "Politics",
+      "title": "Omaha's U.S. House race will test candidates' ability to reach beyond party lines",
+      "link": "https://www.npr.org/2026/05/12/nx-s1-5815289/omaha-and-centrist-politics",
+      "date": "Tue, 12 May 2026 17:35:49 -0400"
     },
     {
       "category": "Politics",
@@ -75,7 +81,7 @@
     },
     {
       "category": "Politics",
-      "title": "Alabama will split U.S. House primaries, after the Supreme Court's voting ruling",
+      "title": "Alabama splits U.S. House primaries after court ruling; S.C. redistricting stalls",
       "link": "https://www.npr.org/2026/05/12/nx-s1-5819600/alabama-congressional-redistricting-special-election",
       "date": "Tue, 12 May 2026 15:24:05 -0400"
     },
@@ -87,9 +93,9 @@
     },
     {
       "category": "Politics",
-      "title": "The economic chilling effect of Trump's immigration crackdown",
-      "link": "https://www.npr.org/sections/planet-money/2026/05/12/g-s1-121493/the-economic-chilling-effect-of-trumps-immigration-crackdown",
-      "date": "Tue, 12 May 2026 06:30:00 -0400"
+      "title": "Is Mamdani\u2019s \u2018Tax the Rich\u2019 fight done?",
+      "link": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/05/12/hochul-mamdani-tax-the-rich-fight-budget-00917585",
+      "date": "Tue, 12 May 2026 16:10:16 EST"
     },
     {
       "category": "Politics",
@@ -116,10 +122,16 @@
       "date": "Mon, 11 May 2026 15:55:47 EST"
     },
     {
-      "category": "Politics",
-      "title": "This moderate Republican senator is already eyeing the exits 16 months into his term",
-      "link": "https://www.politico.com/news/2026/05/11/sen-john-curtis-exploring-2028-run-for-utah-governor-00913981",
-      "date": "Mon, 11 May 2026 15:17:28 EST"
+      "category": "Space",
+      "title": "SpaceX's Starship V3 megarocket finally has a debut launch date. Here's when it will fly",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-v3-megarocket-finally-has-a-debut-launch-date-heres-when-it-will-fly",
+      "date": "Tue, 12 May 2026 22:34:50 +0000"
+    },
+    {
+      "category": "Space",
+      "title": "Uranus and Neptune could be full of rocks, new study suggests",
+      "link": "https://www.space.com/science/uranus-and-neptune-could-be-full-of-rocks-new-study-suggests",
+      "date": "Tue, 12 May 2026 21:00:00 +0000"
     },
     {
       "category": "Space",
@@ -141,15 +153,9 @@
     },
     {
       "category": "Space",
-      "title": "Watch SpaceX launch 6,500 pounds of cargo to the International Space Station on May 13",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-dragon-cargo-launch-iss-crs-34",
-      "date": "Tue, 12 May 2026 15:00:00 +0000"
-    },
-    {
-      "category": "Space",
-      "title": "NASA's Psyche asteroid probe will fly within 3,000 miles of Mars on May 15: Here's what to expect",
-      "link": "https://www.space.com/space-exploration/asteroid-comet-missions/nasas-psyche-asteroid-probe-will-fly-within-3-000-miles-of-mars-on-may-15-heres-what-to-expect",
-      "date": "Tue, 12 May 2026 14:19:42 +0000"
+      "title": "SpaceX targets May 19 for debut of Starship Version 3, Launch Pad 2",
+      "link": "https://spaceflightnow.com/2026/05/12/spacex-targets-may-19-for-debut-of-starship-super-heavy-version-3-launch-pad-2/",
+      "date": "Tue, 12 May 2026 23:15:22 +0000"
     },
     {
       "category": "Space",
@@ -174,12 +180,6 @@
       "title": "Rocket Lab announces five-launch Neutron deal as it continues aiming for late 2026 debut",
       "link": "https://spaceflightnow.com/2026/05/07/rocket-lab-announces-five-launch-neutron-deal-as-it-continues-aiming-for-late-2026-debut/",
       "date": "Thu, 07 May 2026 22:35:44 +0000"
-    },
-    {
-      "category": "Space",
-      "title": "SpaceX launches 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
-      "link": "https://spaceflightnow.com/2026/05/05/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-7/",
-      "date": "Tue, 05 May 2026 13:15:50 +0000"
     }
   ]
 }

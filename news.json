@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-13 00:06 UTC",
+  "updated": "2026-05-13 16:37 UTC",
   "articles": [
     {
       "category": "Computing",
@@ -33,63 +33,75 @@
     },
     {
       "category": "Computing",
-      "title": "OpenZFS 2.4.2 Released With Linux 7.0 Kernel Support, Many Bug Fixes",
-      "link": "https://www.phoronix.com/news/OpenZFS-2.4.2-Released",
-      "date": "Tue, 12 May 2026 18:28:56 -0400"
+      "title": "Fragnesia Made Public As Latest Linux Local Privilege Escalation Vulnerability",
+      "link": "https://www.phoronix.com/news/Linux-Fragnesia",
+      "date": "Wed, 13 May 2026 11:52:22 -0400"
     },
     {
       "category": "Computing",
-      "title": "FreeBSD 15.2 Will Aim For The Nice KDE Desktop Installation Experience",
-      "link": "https://www.phoronix.com/news/FreeBSD-15.2-KDE-Desktop",
-      "date": "Tue, 12 May 2026 17:25:11 -0400"
+      "title": "GCC 16 Produces Faster Binaries Than GCC 15, Competitive Race With LLVM Clang 22",
+      "link": "https://www.phoronix.com/review/gcc-16-vs-clang-22",
+      "date": "Wed, 13 May 2026 09:45:00 -0400"
     },
     {
       "category": "Computing",
-      "title": "AMD & Intel Roll Out New Linux Updates For Today's Patch Tuesday",
-      "link": "https://www.phoronix.com/news/Patch-Tuesday-May-2026",
-      "date": "Tue, 12 May 2026 13:52:07 -0400"
+      "title": "Intel Compute Runtime 26.18.38308.1 Brings More Xe3P Enableement, Nova Lake P Support",
+      "link": "https://www.phoronix.com/news/Intel-Compute-26.18.38308.1",
+      "date": "Wed, 13 May 2026 07:01:09 -0400"
     },
     {
       "category": "Computing",
-      "title": "DXVK-NVAPI 0.9.2 Further Improves NVIDIA Integration For Steam Play Linux Gaming",
-      "link": "https://www.phoronix.com/news/DXVK-NVAPI-0.9.2-Released",
-      "date": "Tue, 12 May 2026 13:16:08 -0400"
+      "title": "Discord Touts \"Year Of The Linux Desktop\" With Linux Client Improvements",
+      "link": "https://www.phoronix.com/news/Discord-Better-Linux-Client",
+      "date": "Wed, 13 May 2026 06:17:35 -0400"
     },
     {
       "category": "Computing",
-      "title": "IBM s390 Is The Latest Architecture Seeing Rust Linux Kernel Support",
-      "link": "https://www.phoronix.com/news/IBM-s390-Linux-Kernel-Rust",
-      "date": "Tue, 12 May 2026 12:55:16 -0400"
+      "title": "NetBSD 11.0-RC4 Comes As Hopefully The Last Release Candidate",
+      "link": "https://www.phoronix.com/news/NetBSD-11.0-RC4",
+      "date": "Wed, 13 May 2026 06:06:56 -0400"
     },
     {
       "category": "Politics",
-      "title": "Omaha's U.S. House race will test candidates' ability to reach beyond party lines",
-      "link": "https://www.npr.org/2026/05/12/nx-s1-5815289/omaha-and-centrist-politics",
-      "date": "Tue, 12 May 2026 17:35:49 -0400"
+      "title": "How the Trump administration has undermined the fight against public corruption",
+      "link": "https://www.npr.org/2026/05/13/g-s1-121485/trump-pardons-public-corruption-justice",
+      "date": "Wed, 13 May 2026 05:00:00 -0400"
     },
     {
       "category": "Politics",
-      "title": "The SPLC survived firebombs and death threats. Will it survive Trump 2.0?",
-      "link": "https://www.npr.org/2026/05/12/nx-s1-5797490/splc-doj-extremism-trump",
-      "date": "Tue, 12 May 2026 16:29:17 -0400"
+      "title": "Is the U.S. slipping into 'Competitive Authoritarianism?'",
+      "link": "https://www.npr.org/2026/05/13/nx-s1-5816313/word-of-week-competitive-authoritarianism",
+      "date": "Wed, 13 May 2026 05:00:00 -0400"
     },
     {
       "category": "Politics",
-      "title": "Southern states rush to draw new Congressional districts after Supreme Court ruling",
-      "link": "https://www.npr.org/2026/05/12/nx-s1-5818688/southern-states-rush-to-draw-new-congressional-districts-after-supreme-court-ruling",
-      "date": "Tue, 12 May 2026 16:29:03 -0400"
+      "title": "Lawmakers question Pete Hegseth about rising cost of U.S. war against Iran",
+      "link": "https://www.npr.org/2026/05/13/nx-s1-5819583/lawmakers-question-pete-hegseth-about-rising-cost-of-u-s-war-against-iran",
+      "date": "Wed, 13 May 2026 04:45:47 -0400"
     },
     {
       "category": "Politics",
-      "title": "Alabama splits U.S. House primaries after court ruling; S.C. redistricting stalls",
-      "link": "https://www.npr.org/2026/05/12/nx-s1-5819600/alabama-congressional-redistricting-special-election",
-      "date": "Tue, 12 May 2026 15:24:05 -0400"
+      "title": "Rep. Rosa DeLauro, D-Conn., on the cost of the war in Iran",
+      "link": "https://www.npr.org/2026/05/13/nx-s1-5819570/rep-rosa-delauro-d-conn-on-the-cost-of-the-war-in-iran",
+      "date": "Wed, 13 May 2026 04:45:26 -0400"
     },
     {
       "category": "Politics",
-      "title": "Transportation Secretary Duffy filmed a reality show, funded by firms he regulates",
-      "link": "https://www.npr.org/2026/05/12/nx-s1-5818190/sean-duffy-road-trip-reality-show-sponsors",
-      "date": "Tue, 12 May 2026 12:11:38 -0400"
+      "title": "Powell pulls ahead in tight race for Nebraska's 2nd District",
+      "link": "https://www.npr.org/2026/05/13/nx-s1-5819377/powell-pulls-ahead-in-tight-race-for-nebraskas-2nd-district",
+      "date": "Wed, 13 May 2026 04:45:21 -0400"
+    },
+    {
+      "category": "Politics",
+      "title": "Buttigieg picks sides in Iowa",
+      "link": "https://www.politico.com/news/2026/05/13/buttigieg-endorses-turek-iowa-senate-00918205",
+      "date": "Wed, 13 May 2026 04:50:00 EST"
+    },
+    {
+      "category": "Politics",
+      "title": "Brad Raffensperger targeted by threat as he runs for governor",
+      "link": "https://www.politico.com/news/2026/05/12/brad-raffensperger-threat-00918228",
+      "date": "Tue, 12 May 2026 21:50:23 EST"
     },
     {
       "category": "Politics",
@@ -110,46 +122,34 @@
       "date": "Tue, 12 May 2026 14:12:27 EST"
     },
     {
-      "category": "Politics",
-      "title": "Trump nominates Kari Lake and Doug Mastriano to diplomatic posts",
-      "link": "https://www.politico.com/news/2026/05/11/kari-lake-doug-mastriano-diplomats-00915314",
-      "date": "Mon, 11 May 2026 16:22:44 EST"
-    },
-    {
-      "category": "Politics",
-      "title": "What to expect when you\u2019re expecting a budget",
-      "link": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/05/11/what-to-expect-when-youre-expecting-a-budget-00915050",
-      "date": "Mon, 11 May 2026 15:55:47 EST"
+      "category": "Space",
+      "title": "'Smallville' at 15: An imperfect Superman show, but the best Clark Kent story ever told",
+      "link": "https://www.space.com/entertainment/space-movies-shows/smallville-at-15-an-imperfect-superman-show-but-the-best-clark-kent-story-ever-told",
+      "date": "Wed, 13 May 2026 16:00:00 +0000"
     },
     {
       "category": "Space",
-      "title": "SpaceX's Starship V3 megarocket finally has a debut launch date. Here's when it will fly",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-v3-megarocket-finally-has-a-debut-launch-date-heres-when-it-will-fly",
-      "date": "Tue, 12 May 2026 22:34:50 +0000"
+      "title": "Lasers shine a new light on the space junk air pollution problem",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/lasers-shine-a-new-light-on-the-space-junk-air-pollution-problem",
+      "date": "Wed, 13 May 2026 15:00:00 +0000"
     },
     {
       "category": "Space",
-      "title": "Uranus and Neptune could be full of rocks, new study suggests",
-      "link": "https://www.space.com/science/uranus-and-neptune-could-be-full-of-rocks-new-study-suggests",
-      "date": "Tue, 12 May 2026 21:00:00 +0000"
+      "title": "The Whirlpool Galaxy comes alive | Space photo of the day for May 13, 2026",
+      "link": "https://www.space.com/science/astrophysics/the-whirlpool-galaxy-comes-alive-in-new-image-space-photo-of-the-day-for-may-13-2026",
+      "date": "Wed, 13 May 2026 14:00:00 +0000"
     },
     {
       "category": "Space",
-      "title": "Cowboy Space raises $275 million to launch AI data centers on brand-new rocket",
-      "link": "https://www.space.com/technology/cowboy-space-raises-usd275-million-to-launch-ai-data-centers-on-brand-new-rocket",
-      "date": "Tue, 12 May 2026 19:05:26 +0000"
+      "title": "30-mile-high clouds of acid on Venus are made by the largest 'hydraulic jump' in the solar system",
+      "link": "https://www.space.com/astronomy/venus/30-mile-high-clouds-of-acid-on-venus-are-made-by-the-largest-hydraulic-jump-in-the-solar-system",
+      "date": "Wed, 13 May 2026 13:00:00 +0000"
     },
     {
       "category": "Space",
-      "title": "'Cannibal stars,' AI and the Rubin Observatory could shed light on the mystery of dark energy. Here's how",
-      "link": "https://www.space.com/astronomy/dark-universe/cannibal-stars-ai-and-the-rubin-observatory-could-shed-light-on-the-mystery-of-dark-energy-heres-how",
-      "date": "Tue, 12 May 2026 18:00:00 +0000"
-    },
-    {
-      "category": "Space",
-      "title": "Don't miss Mars, Saturn and the moon form a cosmic triangle before dawn on May 14",
-      "link": "https://www.space.com/stargazing/dont-miss-mars-saturn-and-the-moon-form-a-cosmic-triangle-before-dawn-on-may-14",
-      "date": "Tue, 12 May 2026 16:00:00 +0000"
+      "title": "'Like putting a microscope into the core of the sun': World's 1st space-based neutrino detector launches to orbit",
+      "link": "https://www.space.com/science/particle-physics/like-putting-a-microscope-into-the-core-of-the-sun-worlds-1st-space-based-neutrino-detector-launches-to-orbit",
+      "date": "Wed, 13 May 2026 12:00:00 +0000"
     },
     {
       "category": "Space",

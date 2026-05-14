@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-13 16:38 UTC",
+  "updated": "2026-05-14 16:18 UTC",
   "articles": [
     {
       "category": "Computing",
@@ -33,63 +33,81 @@
     },
     {
       "category": "Computing",
-      "title": "Fragnesia Made Public As Latest Linux Local Privilege Escalation Vulnerability",
-      "link": "https://www.phoronix.com/news/Linux-Fragnesia",
-      "date": "Wed, 13 May 2026 11:52:22 -0400"
+      "title": "ROCm 7.0.0 vs. ROCm 7.2.3 Performance On The AMD Radeon AI PRO R9700",
+      "link": "https://www.phoronix.com/review/amd-rocm7-723",
+      "date": "Thu, 14 May 2026 10:20:00 -0400"
     },
     {
       "category": "Computing",
-      "title": "GCC 16 Produces Faster Binaries Than GCC 15, Competitive Race With LLVM Clang 22",
-      "link": "https://www.phoronix.com/review/gcc-16-vs-clang-22",
-      "date": "Wed, 13 May 2026 09:45:00 -0400"
+      "title": "AMD Preps More AIE4 NPU Hardware Enablement For AMDXDNA Driver In Linux 7.2",
+      "link": "https://www.phoronix.com/news/Linux-72-drm-misc-next-More-AIE",
+      "date": "Thu, 14 May 2026 09:47:03 -0400"
     },
     {
       "category": "Computing",
-      "title": "Intel Compute Runtime 26.18.38308.1 Brings More Xe3P Enableement, Nova Lake P Support",
-      "link": "https://www.phoronix.com/news/Intel-Compute-26.18.38308.1",
-      "date": "Wed, 13 May 2026 07:01:09 -0400"
+      "title": "Intel's Cache Aware Scheduling Inches Closer To Being Merged For Linux",
+      "link": "https://www.phoronix.com/news/Linux-Cache-Aware-Sched-Nears",
+      "date": "Thu, 14 May 2026 08:23:06 -0400"
     },
     {
       "category": "Computing",
-      "title": "Discord Touts \"Year Of The Linux Desktop\" With Linux Client Improvements",
-      "link": "https://www.phoronix.com/news/Discord-Better-Linux-Client",
-      "date": "Wed, 13 May 2026 06:17:35 -0400"
+      "title": "KDE Plasma 6.7 Beta Released With Plasma Big Screen, Union Modules",
+      "link": "https://www.phoronix.com/news/KDE-Plasma-6.7-Beta-Released",
+      "date": "Thu, 14 May 2026 07:31:18 -0400"
     },
     {
       "category": "Computing",
-      "title": "NetBSD 11.0-RC4 Comes As Hopefully The Last Release Candidate",
-      "link": "https://www.phoronix.com/news/NetBSD-11.0-RC4",
-      "date": "Wed, 13 May 2026 06:06:56 -0400"
+      "title": "New AMDGPU Driver Pull Request For Linux 7.2 Preps For HDMI 2.1 FRL",
+      "link": "https://www.phoronix.com/news/Linux-7.2-AMDGPU-FRL-Regs",
+      "date": "Thu, 14 May 2026 06:20:45 -0400"
     },
     {
       "category": "Politics",
-      "title": "How the Trump administration has undermined the fight against public corruption",
-      "link": "https://www.npr.org/2026/05/13/g-s1-121485/trump-pardons-public-corruption-justice",
-      "date": "Wed, 13 May 2026 05:00:00 -0400"
+      "title": "Thrown-out ballots and map confusion: Voters are losing the redistricting battle",
+      "link": "https://www.npr.org/2026/05/14/nx-s1-5818507/redistricting-voters-louisiana-alabama-virginia",
+      "date": "Thu, 14 May 2026 05:00:00 -0400"
     },
     {
       "category": "Politics",
-      "title": "Is the U.S. slipping into 'Competitive Authoritarianism?'",
-      "link": "https://www.npr.org/2026/05/13/nx-s1-5816313/word-of-week-competitive-authoritarianism",
-      "date": "Wed, 13 May 2026 05:00:00 -0400"
+      "title": "A look at Trump's goals for his summit in China",
+      "link": "https://www.npr.org/2026/05/14/nx-s1-5819567/a-look-at-trumps-goals-for-his-summit-in-china",
+      "date": "Thu, 14 May 2026 00:02:35 -0400"
     },
     {
       "category": "Politics",
-      "title": "Lawmakers question Pete Hegseth about rising cost of U.S. war against Iran",
-      "link": "https://www.npr.org/2026/05/13/nx-s1-5819583/lawmakers-question-pete-hegseth-about-rising-cost-of-u-s-war-against-iran",
-      "date": "Wed, 13 May 2026 04:45:47 -0400"
+      "title": "Denise Powell wins Democratic primary for Nebraska's 2nd congressional district",
+      "link": "https://www.npr.org/2026/05/13/g-s1-121987/denise-powell-democrat-wins-nebraska-second-congressional-district",
+      "date": "Wed, 13 May 2026 20:59:31 -0400"
     },
     {
       "category": "Politics",
-      "title": "Rep. Rosa DeLauro, D-Conn., on the cost of the war in Iran",
-      "link": "https://www.npr.org/2026/05/13/nx-s1-5819570/rep-rosa-delauro-d-conn-on-the-cost-of-the-war-in-iran",
-      "date": "Wed, 13 May 2026 04:45:26 -0400"
+      "title": "What Tennessee's new redistricting map looks like from the ground",
+      "link": "https://www.npr.org/2026/05/13/nx-s1-5818509/what-tennessees-new-redistricting-map-looks-like-from-the-ground",
+      "date": "Wed, 13 May 2026 16:20:31 -0400"
     },
     {
       "category": "Politics",
-      "title": "Powell pulls ahead in tight race for Nebraska's 2nd District",
-      "link": "https://www.npr.org/2026/05/13/nx-s1-5819377/powell-pulls-ahead-in-tight-race-for-nebraskas-2nd-district",
-      "date": "Wed, 13 May 2026 04:45:21 -0400"
+      "title": "A majority-Black district in Louisiana traces a long fight over the Voting Rights Act",
+      "link": "https://www.npr.org/2026/05/13/nx-s1-5816007/louisiana-redistricting-6th-district-fields",
+      "date": "Wed, 13 May 2026 15:52:31 -0400"
+    },
+    {
+      "category": "Politics",
+      "title": "Poll: Democrats would give up Black voting power to beat the GOP",
+      "link": "https://www.politico.com/news/2026/05/14/poll-democrats-redistricting-black-voters-00919972",
+      "date": "Thu, 14 May 2026 03:45:00 EST"
+    },
+    {
+      "category": "Politics",
+      "title": "A look inside a North Country primary feud",
+      "link": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/05/13/elise-stefnik-republican-new-york-primary-00919396",
+      "date": "Wed, 13 May 2026 15:53:46 EST"
+    },
+    {
+      "category": "Politics",
+      "title": "McMaster plans to call special session to redraw South Carolina House map",
+      "link": "https://www.politico.com/news/2026/05/13/mcmaster-special-session-redistricting-south-carolina-00919106",
+      "date": "Wed, 13 May 2026 14:13:27 EST"
     },
     {
       "category": "Politics",
@@ -104,52 +122,34 @@
       "date": "Tue, 12 May 2026 21:50:23 EST"
     },
     {
-      "category": "Politics",
-      "title": "Is Mamdani\u2019s \u2018Tax the Rich\u2019 fight done?",
-      "link": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/05/12/hochul-mamdani-tax-the-rich-fight-budget-00917585",
-      "date": "Tue, 12 May 2026 16:10:16 EST"
-    },
-    {
-      "category": "Politics",
-      "title": "South Carolina Republicans tank redistricting, for now",
-      "link": "https://www.politico.com/news/2026/05/12/south-carolina-redistricting-vote-fails-00917584",
-      "date": "Tue, 12 May 2026 15:40:46 EST"
-    },
-    {
-      "category": "Politics",
-      "title": "Michigan Senate hopeful El-Sayed calls himself a \u2018physician\u2019 but has little history treating patients",
-      "link": "https://www.politico.com/news/2026/05/12/abdul-el-sayed-doctor-physician-00916389",
-      "date": "Tue, 12 May 2026 14:12:27 EST"
+      "category": "Space",
+      "title": "Geomagnetic storm could spark northern lights as far south as New York and Idaho tonight",
+      "link": "https://www.space.com/stargazing/auroras/geomagnetic-storm-could-spark-northern-lights-as-far-south-as-new-york-and-idaho-tonight-may-14",
+      "date": "Thu, 14 May 2026 16:08:30 +0000"
     },
     {
       "category": "Space",
-      "title": "'Smallville' at 15: An imperfect Superman show, but the best Clark Kent story ever told",
-      "link": "https://www.space.com/entertainment/space-movies-shows/smallville-at-15-an-imperfect-superman-show-but-the-best-clark-kent-story-ever-told",
-      "date": "Wed, 13 May 2026 16:00:00 +0000"
+      "title": "What should you do if you meet an alien? Neil deGrasse Tyson offers a scientific perspective in 'Take Me To Your Leader' (interview)",
+      "link": "https://www.space.com/entertainment/what-should-you-do-if-you-meet-an-alien-neil-degrasse-tyson-offers-a-scientific-perspective-in-take-me-to-your-leader-interview",
+      "date": "Thu, 14 May 2026 15:00:00 +0000"
     },
     {
       "category": "Space",
-      "title": "Lasers shine a new light on the space junk air pollution problem",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/lasers-shine-a-new-light-on-the-space-junk-air-pollution-problem",
-      "date": "Wed, 13 May 2026 15:00:00 +0000"
+      "title": "The world's biggest rocket: How SpaceX's new Starship 'V3' differs from its predecessors",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/the-worlds-biggest-rocket-how-spacexs-new-starship-v3-differs-from-its-predecessors",
+      "date": "Thu, 14 May 2026 14:00:00 +0000"
     },
     {
       "category": "Space",
-      "title": "The Whirlpool Galaxy comes alive | Space photo of the day for May 13, 2026",
-      "link": "https://www.space.com/science/astrophysics/the-whirlpool-galaxy-comes-alive-in-new-image-space-photo-of-the-day-for-may-13-2026",
-      "date": "Wed, 13 May 2026 14:00:00 +0000"
+      "title": "Earth photobombs a satellite deploying its giant reflector | Space photo of the day for May 14, 2026",
+      "link": "https://www.space.com/space-exploration/satellites/earth-photobombs-a-satellite-deploying-its-giant-reflector-space-photo-of-the-day-for-may-14-2026",
+      "date": "Thu, 14 May 2026 14:00:00 +0000"
     },
     {
       "category": "Space",
-      "title": "30-mile-high clouds of acid on Venus are made by the largest 'hydraulic jump' in the solar system",
-      "link": "https://www.space.com/astronomy/venus/30-mile-high-clouds-of-acid-on-venus-are-made-by-the-largest-hydraulic-jump-in-the-solar-system",
-      "date": "Wed, 13 May 2026 13:00:00 +0000"
-    },
-    {
-      "category": "Space",
-      "title": "'Like putting a microscope into the core of the sun': World's 1st space-based neutrino detector launches to orbit",
-      "link": "https://www.space.com/science/particle-physics/like-putting-a-microscope-into-the-core-of-the-sun-worlds-1st-space-based-neutrino-detector-launches-to-orbit",
-      "date": "Wed, 13 May 2026 12:00:00 +0000"
+      "title": "That bright light after sunset? Venus is starting a summer show that's impossible to miss",
+      "link": "https://www.space.com/stargazing/that-bright-light-after-sunset-venus-is-starting-a-summer-show-thats-impossible-to-miss",
+      "date": "Thu, 14 May 2026 13:00:00 +0000"
     },
     {
       "category": "Space",
@@ -159,7 +159,7 @@
     },
     {
       "category": "Space",
-      "title": "Poor weather causes NASA, SpaceX to scrub launch attempt of 34th Cargo Dragon mission to the space station",
+      "title": "For a second time, poor weather scrubs Cargo Dragon mission launch to the space station",
       "link": "https://spaceflightnow.com/2026/05/12/live-coverage-nasa-spacex-to-launch-34th-cargo-dragon-mission-to-the-space-station/",
       "date": "Tue, 12 May 2026 12:20:19 +0000"
     },

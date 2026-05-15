@@ -1,6 +1,18 @@
 {
-  "updated": "2026-05-14 16:18 UTC",
+  "updated": "2026-05-15 15:38 UTC",
   "articles": [
+    {
+      "category": "Computing",
+      "title": "Zero-day exploit completely defeats default Windows 11 BitLocker protections",
+      "link": "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/",
+      "date": "Thu, 14 May 2026 18:32:01 +0000"
+    },
+    {
+      "category": "Computing",
+      "title": "Cisco announces record revenue and 4,000 layoffs in the same day",
+      "link": "https://arstechnica.com/information-technology/2026/05/cisco-announces-record-revenue-and-4000-layoffs-in-the-same-day/",
+      "date": "Thu, 14 May 2026 16:47:43 +0000"
+    },
     {
       "category": "Computing",
       "title": "Linux bitten by second severe vulnerability in as many weeks",
@@ -21,135 +33,129 @@
     },
     {
       "category": "Computing",
-      "title": "Ars Asks: Share your shell and show us your tricked-out terminals!",
-      "link": "https://arstechnica.com/information-technology/2026/05/ars-asks-share-your-shell-and-show-us-your-tricked-out-terminals/",
-      "date": "Wed, 06 May 2026 13:32:47 +0000"
+      "title": "Linux 7.0.8 Released & LTS Kernels Updated For ssh-keysign-pwn",
+      "link": "https://www.phoronix.com/news/Linux-7.0.8-Released",
+      "date": "Fri, 15 May 2026 10:10:18 -0400"
     },
     {
       "category": "Computing",
-      "title": "Widely used Daemon Tools disk app backdoored in monthlong supply-chain attack",
-      "link": "https://arstechnica.com/security/2026/05/widely-used-daemon-tools-disk-app-backdoored-in-monthlong-supply-chain-attack/",
-      "date": "Tue, 05 May 2026 19:46:15 +0000"
+      "title": "ZimaCube 2 Makes For A Nice Personal Cloud/NAS With Power Of Linux + Intel CPU",
+      "link": "https://www.phoronix.com/review/zimacube-2",
+      "date": "Fri, 15 May 2026 09:15:36 -0400"
     },
     {
       "category": "Computing",
-      "title": "ROCm 7.0.0 vs. ROCm 7.2.3 Performance On The AMD Radeon AI PRO R9700",
-      "link": "https://www.phoronix.com/review/amd-rocm7-723",
-      "date": "Thu, 14 May 2026 10:20:00 -0400"
+      "title": "Rocky Linux Launches Optional Security Repository To Get Important Fixes Sooner",
+      "link": "https://www.phoronix.com/news/Rocky-Linux-Security-Repo",
+      "date": "Fri, 15 May 2026 08:15:15 -0400"
     },
     {
       "category": "Computing",
-      "title": "AMD Preps More AIE4 NPU Hardware Enablement For AMDXDNA Driver In Linux 7.2",
-      "link": "https://www.phoronix.com/news/Linux-72-drm-misc-next-More-AIE",
-      "date": "Thu, 14 May 2026 09:47:03 -0400"
+      "title": "Coreboot + AMD openSIL Powered Firmware Published For The Gigabyte MZ33-AR1",
+      "link": "https://www.phoronix.com/news/Dasharo-Firmware-MZ33-AR1",
+      "date": "Fri, 15 May 2026 07:17:47 -0400"
     },
     {
       "category": "Computing",
-      "title": "Intel's Cache Aware Scheduling Inches Closer To Being Merged For Linux",
-      "link": "https://www.phoronix.com/news/Linux-Cache-Aware-Sched-Nears",
-      "date": "Thu, 14 May 2026 08:23:06 -0400"
-    },
-    {
-      "category": "Computing",
-      "title": "KDE Plasma 6.7 Beta Released With Plasma Big Screen, Union Modules",
-      "link": "https://www.phoronix.com/news/KDE-Plasma-6.7-Beta-Released",
-      "date": "Thu, 14 May 2026 07:31:18 -0400"
-    },
-    {
-      "category": "Computing",
-      "title": "New AMDGPU Driver Pull Request For Linux 7.2 Preps For HDMI 2.1 FRL",
-      "link": "https://www.phoronix.com/news/Linux-7.2-AMDGPU-FRL-Regs",
-      "date": "Thu, 14 May 2026 06:20:45 -0400"
+      "title": "Cloud Hypervisor 52 Now Supports Launching AMD SEV-SNP Confidential VMs With KVM",
+      "link": "https://www.phoronix.com/news/Cloud-Hypervisor-52",
+      "date": "Fri, 15 May 2026 06:30:00 -0400"
     },
     {
       "category": "Politics",
-      "title": "Thrown-out ballots and map confusion: Voters are losing the redistricting battle",
-      "link": "https://www.npr.org/2026/05/14/nx-s1-5818507/redistricting-voters-louisiana-alabama-virginia",
-      "date": "Thu, 14 May 2026 05:00:00 -0400"
+      "title": "Can the NFL's Rooney Rule survive the DEI backlash?",
+      "link": "https://www.npr.org/2026/05/15/nx-s1-5823441/rooney-rule-dei-diverse-slates-discrimination",
+      "date": "Fri, 15 May 2026 11:08:27 -0400"
     },
     {
       "category": "Politics",
-      "title": "A look at Trump's goals for his summit in China",
-      "link": "https://www.npr.org/2026/05/14/nx-s1-5819567/a-look-at-trumps-goals-for-his-summit-in-china",
-      "date": "Thu, 14 May 2026 00:02:35 -0400"
+      "title": "Key takeaways from Trump's China trip",
+      "link": "https://www.npr.org/2026/05/15/nx-s1-5822512/trump-china-xi-summit-takeaways",
+      "date": "Fri, 15 May 2026 07:00:16 -0400"
     },
     {
       "category": "Politics",
-      "title": "Denise Powell wins Democratic primary for Nebraska's 2nd congressional district",
-      "link": "https://www.npr.org/2026/05/13/g-s1-121987/denise-powell-democrat-wins-nebraska-second-congressional-district",
-      "date": "Wed, 13 May 2026 20:59:31 -0400"
+      "title": "Death toll in attack on Kyiv apartment building now stands at 24",
+      "link": "https://www.npr.org/2026/05/15/nx-s1-5823388/death-toll-in-attack-on-kyiv-apartment-building-now-stands-at-24",
+      "date": "Fri, 15 May 2026 05:28:02 -0400"
     },
     {
       "category": "Politics",
-      "title": "What Tennessee's new redistricting map looks like from the ground",
-      "link": "https://www.npr.org/2026/05/13/nx-s1-5818509/what-tennessees-new-redistricting-map-looks-like-from-the-ground",
-      "date": "Wed, 13 May 2026 16:20:31 -0400"
+      "title": "After redistricting, what does representation mean to Tennessee voters?",
+      "link": "https://www.npr.org/2026/05/15/nx-s1-5822329/memphis-gerrymandering-representation-voting-rights",
+      "date": "Fri, 15 May 2026 05:00:00 -0400"
     },
     {
       "category": "Politics",
-      "title": "A majority-Black district in Louisiana traces a long fight over the Voting Rights Act",
-      "link": "https://www.npr.org/2026/05/13/nx-s1-5816007/louisiana-redistricting-6th-district-fields",
-      "date": "Wed, 13 May 2026 15:52:31 -0400"
+      "title": "Reps. Brian Fitzpatrick and Tom Suozzi on rising issue of gerrymandering",
+      "link": "https://www.npr.org/2026/05/15/nx-s1-5822313/reps-brian-fitzpatrick-and-tom-suozzi-on-rising-issue-of-gerrymandering",
+      "date": "Fri, 15 May 2026 04:45:43 -0400"
     },
     {
       "category": "Politics",
-      "title": "Poll: Democrats would give up Black voting power to beat the GOP",
-      "link": "https://www.politico.com/news/2026/05/14/poll-democrats-redistricting-black-voters-00919972",
-      "date": "Thu, 14 May 2026 03:45:00 EST"
+      "title": "Keisha Lance Bottoms\u2019 lead is making some Georgia Democrats uneasy",
+      "link": "https://www.politico.com/news/2026/05/15/keisha-lance-bottoms-georgia-governor-democrats-00922677",
+      "date": "Fri, 15 May 2026 04:00:00 EST"
     },
     {
       "category": "Politics",
-      "title": "A look inside a North Country primary feud",
-      "link": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/05/13/elise-stefnik-republican-new-york-primary-00919396",
-      "date": "Wed, 13 May 2026 15:53:46 EST"
+      "title": "The nation\u2019s cartoonists on the week in politics",
+      "link": "https://www.politico.com/gallery/2026/05/15/the-nations-cartoonists-on-the-week-in-politics-00922365",
+      "date": "Fri, 15 May 2026 04:00:00 EST"
     },
     {
       "category": "Politics",
-      "title": "McMaster plans to call special session to redraw South Carolina House map",
-      "link": "https://www.politico.com/news/2026/05/13/mcmaster-special-session-redistricting-south-carolina-00919106",
-      "date": "Wed, 13 May 2026 14:13:27 EST"
+      "title": "Reza Pahlavi on Trump, Iran and whether the regime will ever fall",
+      "link": "https://www.politico.com/video/2026/05/14/reza-pahlavi-on-trump-iran-and-whether-the-regime-will-ever-fall-2051869",
+      "date": "Thu, 14 May 2026 22:59:00 EST"
     },
     {
       "category": "Politics",
-      "title": "Buttigieg picks sides in Iowa",
-      "link": "https://www.politico.com/news/2026/05/13/buttigieg-endorses-turek-iowa-senate-00918205",
-      "date": "Wed, 13 May 2026 04:50:00 EST"
+      "title": "Bruce Blakeman\u2019s solar phase",
+      "link": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/05/14/bruce-blakeman-green-energy-solar-00922292",
+      "date": "Thu, 14 May 2026 16:12:40 EST"
     },
     {
       "category": "Politics",
-      "title": "Brad Raffensperger targeted by threat as he runs for governor",
-      "link": "https://www.politico.com/news/2026/05/12/brad-raffensperger-threat-00918228",
-      "date": "Tue, 12 May 2026 21:50:23 EST"
+      "title": "Landry wants to be kingmaker in Louisiana. He\u2019s annoying other Republicans.",
+      "link": "https://www.politico.com/news/2026/05/14/jeff-landry-louisiana-senate-race-letlow-00922157",
+      "date": "Thu, 14 May 2026 16:00:00 EST"
     },
     {
       "category": "Space",
-      "title": "Geomagnetic storm could spark northern lights as far south as New York and Idaho tonight",
-      "link": "https://www.space.com/stargazing/auroras/geomagnetic-storm-could-spark-northern-lights-as-far-south-as-new-york-and-idaho-tonight-may-14",
-      "date": "Thu, 14 May 2026 16:08:30 +0000"
+      "title": "I thought my backyard had too much light pollution for astrophotography. This telescope proved me wrong",
+      "link": "https://www.space.com/stargazing/astrophotography/i-thought-my-backyard-had-too-much-light-pollution-for-astrophotography-this-telescope-proved-me-wrong",
+      "date": "Fri, 15 May 2026 15:00:00 +0000"
     },
     {
       "category": "Space",
-      "title": "What should you do if you meet an alien? Neil deGrasse Tyson offers a scientific perspective in 'Take Me To Your Leader' (interview)",
-      "link": "https://www.space.com/entertainment/what-should-you-do-if-you-meet-an-alien-neil-degrasse-tyson-offers-a-scientific-perspective-in-take-me-to-your-leader-interview",
-      "date": "Thu, 14 May 2026 15:00:00 +0000"
+      "title": "Auroras over Australia look like sci-fi from space | Space photo of the day for May 15, 2026",
+      "link": "https://www.space.com/astronomy/auroras-over-australia-look-like-sci-fi-from-space-space-photo-of-the-day-for-may-15-2026",
+      "date": "Fri, 15 May 2026 14:00:00 +0000"
     },
     {
       "category": "Space",
-      "title": "The world's biggest rocket: How SpaceX's new Starship 'V3' differs from its predecessors",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/the-worlds-biggest-rocket-how-spacexs-new-starship-v3-differs-from-its-predecessors",
-      "date": "Thu, 14 May 2026 14:00:00 +0000"
+      "title": "James Webb Space Telescope maps our universe's largest structure in unprecedented detail",
+      "link": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-maps-our-universes-largest-structure-in-unprecedented-detail",
+      "date": "Fri, 15 May 2026 13:00:00 +0000"
     },
     {
       "category": "Space",
-      "title": "Earth photobombs a satellite deploying its giant reflector | Space photo of the day for May 14, 2026",
-      "link": "https://www.space.com/space-exploration/satellites/earth-photobombs-a-satellite-deploying-its-giant-reflector-space-photo-of-the-day-for-may-14-2026",
-      "date": "Thu, 14 May 2026 14:00:00 +0000"
+      "title": "4 bright stars form a giant 'diamond' in the May night sky: Here's how to find it",
+      "link": "https://www.space.com/stargazing/4-bright-stars-form-a-giant-diamond-in-the-may-night-sky-heres-how-to-find-it",
+      "date": "Fri, 15 May 2026 12:00:00 +0000"
     },
     {
       "category": "Space",
-      "title": "That bright light after sunset? Venus is starting a summer show that's impossible to miss",
-      "link": "https://www.space.com/stargazing/that-bright-light-after-sunset-venus-is-starting-a-summer-show-thats-impossible-to-miss",
-      "date": "Thu, 14 May 2026 13:00:00 +0000"
+      "title": "We still can't see dark matter. But what if we can hear it?",
+      "link": "https://www.space.com/astronomy/dark-universe/we-still-cant-see-dark-matter-but-what-if-we-can-hear-it",
+      "date": "Fri, 15 May 2026 10:00:00 +0000"
+    },
+    {
+      "category": "Space",
+      "title": "ULA confirms successful solid rocket booster test as Vulcan anomaly investigation continues",
+      "link": "https://spaceflightnow.com/2026/05/14/ula-confirms-successful-solid-rocket-booster-test-as-vulcan-anomaly-investigation-continues/",
+      "date": "Thu, 14 May 2026 21:20:57 +0000"
     },
     {
       "category": "Space",
@@ -174,12 +180,6 @@
       "title": "Rescue mission for NASA\u2019s $500 million space telescope passes key testing milestone",
       "link": "https://spaceflightnow.com/2026/05/08/rescue-mission-for-nasas-500-million-space-telescope-passes-key-testing-milestone/",
       "date": "Fri, 08 May 2026 23:19:34 +0000"
-    },
-    {
-      "category": "Space",
-      "title": "Rocket Lab announces five-launch Neutron deal as it continues aiming for late 2026 debut",
-      "link": "https://spaceflightnow.com/2026/05/07/rocket-lab-announces-five-launch-neutron-deal-as-it-continues-aiming-for-late-2026-debut/",
-      "date": "Thu, 07 May 2026 22:35:44 +0000"
     }
   ]
 }

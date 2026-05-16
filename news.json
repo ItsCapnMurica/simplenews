@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-15 15:38 UTC",
+  "updated": "2026-05-16 11:33 UTC",
   "articles": [
     {
       "category": "Computing",
@@ -33,63 +33,69 @@
     },
     {
       "category": "Computing",
-      "title": "Linux 7.0.8 Released & LTS Kernels Updated For ssh-keysign-pwn",
-      "link": "https://www.phoronix.com/news/Linux-7.0.8-Released",
-      "date": "Fri, 15 May 2026 10:10:18 -0400"
+      "title": "Longtime Leading AMD Linux GPU Driver Developer Now Working For Valve",
+      "link": "https://www.phoronix.com/news/AMD-Marek-Joins-Valve",
+      "date": "Sat, 16 May 2026 07:03:07 -0400"
     },
     {
       "category": "Computing",
-      "title": "ZimaCube 2 Makes For A Nice Personal Cloud/NAS With Power Of Linux + Intel CPU",
-      "link": "https://www.phoronix.com/review/zimacube-2",
-      "date": "Fri, 15 May 2026 09:15:36 -0400"
+      "title": "Linux 7.1-rc4 Seeing The Latest Laptop Quirks",
+      "link": "https://www.phoronix.com/news/Linux-7.1-rc4-x86-Drivers",
+      "date": "Sat, 16 May 2026 06:42:07 -0400"
     },
     {
       "category": "Computing",
-      "title": "Rocky Linux Launches Optional Security Repository To Get Important Fixes Sooner",
-      "link": "https://www.phoronix.com/news/Rocky-Linux-Security-Repo",
-      "date": "Fri, 15 May 2026 08:15:15 -0400"
+      "title": "Plasma 6.7 Improves Its Built-In Remote Desktop Server, Enhances Plasma Notifications",
+      "link": "https://www.phoronix.com/news/Plasma-6.7-Notifications-RDP",
+      "date": "Sat, 16 May 2026 06:13:50 -0400"
     },
     {
       "category": "Computing",
-      "title": "Coreboot + AMD openSIL Powered Firmware Published For The Gigabyte MZ33-AR1",
-      "link": "https://www.phoronix.com/news/Dasharo-Firmware-MZ33-AR1",
-      "date": "Fri, 15 May 2026 07:17:47 -0400"
+      "title": "Steam Controller Mapping Merged To SDL Library",
+      "link": "https://www.phoronix.com/news/Steam-Controller-Mapping-SDL",
+      "date": "Sat, 16 May 2026 05:59:04 -0400"
     },
     {
       "category": "Computing",
-      "title": "Cloud Hypervisor 52 Now Supports Launching AMD SEV-SNP Confidential VMs With KVM",
-      "link": "https://www.phoronix.com/news/Cloud-Hypervisor-52",
-      "date": "Fri, 15 May 2026 06:30:00 -0400"
+      "title": "AMD ROCm 7.13 Released With Instinct MI350P Support, More Ryzen AI APUs",
+      "link": "https://www.phoronix.com/news/ROCm-7.13-Released",
+      "date": "Fri, 15 May 2026 21:55:08 -0400"
     },
     {
       "category": "Politics",
-      "title": "Can the NFL's Rooney Rule survive the DEI backlash?",
-      "link": "https://www.npr.org/2026/05/15/nx-s1-5823441/rooney-rule-dei-diverse-slates-discrimination",
-      "date": "Fri, 15 May 2026 11:08:27 -0400"
+      "title": "This Republican voted to convict Trump. Now he's up for reelection. Can he survive?",
+      "link": "https://www.npr.org/2026/05/16/nx-s1-5808979/louisiana-senate-cassidy-trump",
+      "date": "Sat, 16 May 2026 05:00:00 -0400"
     },
     {
       "category": "Politics",
-      "title": "Key takeaways from Trump's China trip",
-      "link": "https://www.npr.org/2026/05/15/nx-s1-5822512/trump-china-xi-summit-takeaways",
-      "date": "Fri, 15 May 2026 07:00:16 -0400"
+      "title": "Supreme Court is death knell for Virginia's Democratic-friendly congressional maps",
+      "link": "https://www.npr.org/2026/05/15/nx-s1-5823911/supreme-court-virginia-redistricting",
+      "date": "Fri, 15 May 2026 18:58:42 -0400"
     },
     {
       "category": "Politics",
-      "title": "Death toll in attack on Kyiv apartment building now stands at 24",
-      "link": "https://www.npr.org/2026/05/15/nx-s1-5823388/death-toll-in-attack-on-kyiv-apartment-building-now-stands-at-24",
-      "date": "Fri, 15 May 2026 05:28:02 -0400"
+      "title": "Under Trump, State Department language on migration echoes that of white nationalists",
+      "link": "https://www.npr.org/2026/05/15/nx-s1-5819738/under-trump-state-department-language-on-migration-echoes-that-of-white-nationalists",
+      "date": "Fri, 15 May 2026 17:29:00 -0400"
     },
     {
       "category": "Politics",
-      "title": "After redistricting, what does representation mean to Tennessee voters?",
-      "link": "https://www.npr.org/2026/05/15/nx-s1-5822329/memphis-gerrymandering-representation-voting-rights",
-      "date": "Fri, 15 May 2026 05:00:00 -0400"
+      "title": "Colorado's Democratic governor will let Trump ally Tina Peters out of prison early",
+      "link": "https://www.npr.org/2026/05/15/nx-s1-5690286/tina-peters-polis-commutation-trump",
+      "date": "Fri, 15 May 2026 16:45:00 -0400"
     },
     {
       "category": "Politics",
-      "title": "Reps. Brian Fitzpatrick and Tom Suozzi on rising issue of gerrymandering",
-      "link": "https://www.npr.org/2026/05/15/nx-s1-5822313/reps-brian-fitzpatrick-and-tom-suozzi-on-rising-issue-of-gerrymandering",
-      "date": "Fri, 15 May 2026 04:45:43 -0400"
+      "title": "The Trump administration is planning a prayer event on the National Mall. All but one of the speakers is Christian",
+      "link": "https://www.npr.org/2026/05/15/g-s1-122276/the-trump-administration-is-planning-a-prayer-event-on-the-national-mall-all-but-one-of-the-speakers-is-christian",
+      "date": "Fri, 15 May 2026 14:07:32 -0400"
+    },
+    {
+      "category": "Politics",
+      "title": "Colorado governor says he will grant clemency to Trump-aligned election conspiracy theorist",
+      "link": "https://www.politico.com/news/2026/05/15/colorado-clemency-trump-election-conspiracy-theorist-00924870",
+      "date": "Fri, 15 May 2026 16:58:58 EST"
     },
     {
       "category": "Politics",
@@ -116,40 +122,40 @@
       "date": "Thu, 14 May 2026 16:12:40 EST"
     },
     {
-      "category": "Politics",
-      "title": "Landry wants to be kingmaker in Louisiana. He\u2019s annoying other Republicans.",
-      "link": "https://www.politico.com/news/2026/05/14/jeff-landry-louisiana-senate-race-letlow-00922157",
-      "date": "Thu, 14 May 2026 16:00:00 EST"
+      "category": "Space",
+      "title": "Astronomers find interstellar comet 3I/ATLAS hiding in images taken before its official discovery",
+      "link": "https://www.space.com/astronomy/comets/astronomers-find-interstellar-comet-3i-atlas-hiding-in-images-taken-before-its-official-discovery",
+      "date": "Sat, 16 May 2026 10:00:00 +0000"
     },
     {
       "category": "Space",
-      "title": "I thought my backyard had too much light pollution for astrophotography. This telescope proved me wrong",
-      "link": "https://www.space.com/stargazing/astrophotography/i-thought-my-backyard-had-too-much-light-pollution-for-astrophotography-this-telescope-proved-me-wrong",
-      "date": "Fri, 15 May 2026 15:00:00 +0000"
+      "title": "The devil may wear Prada on Earth, but NASA Artemis astronauts will on the moon. Here's why.",
+      "link": "https://www.space.com/entertainment/the-devil-may-wear-prada-on-earth-but-nasa-artemis-astronauts-will-on-the-moon-heres-why",
+      "date": "Fri, 15 May 2026 21:03:15 +0000"
     },
     {
       "category": "Space",
-      "title": "Auroras over Australia look like sci-fi from space | Space photo of the day for May 15, 2026",
-      "link": "https://www.space.com/astronomy/auroras-over-australia-look-like-sci-fi-from-space-space-photo-of-the-day-for-may-15-2026",
-      "date": "Fri, 15 May 2026 14:00:00 +0000"
+      "title": "'Battlestar Galactica: Scattered Hopes' is a relentlessly oppressive roguelite inspired by FTL",
+      "link": "https://www.space.com/entertainment/space-games/battlestar-galactica-scattered-hopes-is-a-relentlessly-oppressive-roguelite-inspired-by-ftl",
+      "date": "Fri, 15 May 2026 19:00:00 +0000"
     },
     {
       "category": "Space",
-      "title": "James Webb Space Telescope maps our universe's largest structure in unprecedented detail",
-      "link": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-maps-our-universes-largest-structure-in-unprecedented-detail",
-      "date": "Fri, 15 May 2026 13:00:00 +0000"
+      "title": "The Canon EOS R5 Mark II is our choice as the best-resolution Canon camera \u2013 it's perfect for astrophotography and is $501 off in this Walmart deal",
+      "link": "https://www.space.com/technology/the-canon-eos-r5-mark-ii-is-our-choice-as-the-best-resolution-canon-camera-its-perfect-for-astrophotography-and-is-usd501-off-in-this-walmart-deal",
+      "date": "Fri, 15 May 2026 18:00:00 +0000"
     },
     {
       "category": "Space",
-      "title": "4 bright stars form a giant 'diamond' in the May night sky: Here's how to find it",
-      "link": "https://www.space.com/stargazing/4-bright-stars-form-a-giant-diamond-in-the-may-night-sky-heres-how-to-find-it",
-      "date": "Fri, 15 May 2026 12:00:00 +0000"
+      "title": "Mars orbiter captures striking images of 'chaos and craters' carved by ancient floods",
+      "link": "https://www.space.com/astronomy/mars/mars-orbiter-captures-striking-images-of-chaos-and-craters-carved-by-ancient-floods",
+      "date": "Fri, 15 May 2026 16:00:00 +0000"
     },
     {
       "category": "Space",
-      "title": "We still can't see dark matter. But what if we can hear it?",
-      "link": "https://www.space.com/astronomy/dark-universe/we-still-cant-see-dark-matter-but-what-if-we-can-hear-it",
-      "date": "Fri, 15 May 2026 10:00:00 +0000"
+      "title": "NASA, SpaceX launch Dragon mission with 6,500 pounds of science and supplies to the space station",
+      "link": "https://spaceflightnow.com/2026/05/15/live-coverage-spacex-makes-another-attempt-to-launch-space-station-cargo-mission/",
+      "date": "Fri, 15 May 2026 17:36:05 +0000"
     },
     {
       "category": "Space",
@@ -174,12 +180,6 @@
       "title": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office",
       "link": "https://spaceflightnow.com/2026/05/11/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office/",
       "date": "Mon, 11 May 2026 19:50:46 +0000"
-    },
-    {
-      "category": "Space",
-      "title": "Rescue mission for NASA\u2019s $500 million space telescope passes key testing milestone",
-      "link": "https://spaceflightnow.com/2026/05/08/rescue-mission-for-nasas-500-million-space-telescope-passes-key-testing-milestone/",
-      "date": "Fri, 08 May 2026 23:19:34 +0000"
     }
   ]
 }

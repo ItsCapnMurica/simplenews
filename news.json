@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16 11:33 UTC",
+  "updated": "2026-05-17 11:43 UTC",
   "articles": [
     {
       "category": "Computing",
@@ -33,123 +33,123 @@
     },
     {
       "category": "Computing",
-      "title": "Longtime Leading AMD Linux GPU Driver Developer Now Working For Valve",
-      "link": "https://www.phoronix.com/news/AMD-Marek-Joins-Valve",
-      "date": "Sat, 16 May 2026 07:03:07 -0400"
+      "title": "Claude Code Did The Heavy Lifting To Get Adobe Lightroom CC Running On Linux",
+      "link": "https://www.phoronix.com/news/Adobe-Lightroom-CC-Linux",
+      "date": "Sun, 17 May 2026 06:20:00 -0400"
     },
     {
       "category": "Computing",
-      "title": "Linux 7.1-rc4 Seeing The Latest Laptop Quirks",
-      "link": "https://www.phoronix.com/news/Linux-7.1-rc4-x86-Drivers",
-      "date": "Sat, 16 May 2026 06:42:07 -0400"
+      "title": "FFmpeg Introduces Apple ProRes RAW Vulkan-Powered Video Acceleration",
+      "link": "https://www.phoronix.com/news/FFmpeg-ProRes-RAW-Vulkan",
+      "date": "Sun, 17 May 2026 06:09:58 -0400"
     },
     {
       "category": "Computing",
-      "title": "Plasma 6.7 Improves Its Built-In Remote Desktop Server, Enhances Plasma Notifications",
-      "link": "https://www.phoronix.com/news/Plasma-6.7-Notifications-RDP",
-      "date": "Sat, 16 May 2026 06:13:50 -0400"
+      "title": "Panther Lake Powered Framework Laptop 13 Pro Sees Linux Microphone Fix",
+      "link": "https://www.phoronix.com/news/Framework-Laptop-13-Pro-Audio",
+      "date": "Sun, 17 May 2026 05:10:00 -0400"
     },
     {
       "category": "Computing",
-      "title": "Steam Controller Mapping Merged To SDL Library",
-      "link": "https://www.phoronix.com/news/Steam-Controller-Mapping-SDL",
-      "date": "Sat, 16 May 2026 05:59:04 -0400"
+      "title": "FluidX3D Lands A Big Speed-Up For This OpenCL CFD Software",
+      "link": "https://www.phoronix.com/news/FluidX3D-3.7-Released",
+      "date": "Sun, 17 May 2026 04:09:00 -0400"
     },
     {
       "category": "Computing",
-      "title": "AMD ROCm 7.13 Released With Instinct MI350P Support, More Ryzen AI APUs",
-      "link": "https://www.phoronix.com/news/ROCm-7.13-Released",
-      "date": "Fri, 15 May 2026 21:55:08 -0400"
+      "title": "FreeBSD 15.1 Beta 3 Updates OpenZFS, Ensures Cloud Images Up-To-Date On First Boot",
+      "link": "https://www.phoronix.com/news/FreeBSD-15.1-Beta-3",
+      "date": "Sun, 17 May 2026 00:00:00 -0400"
     },
     {
       "category": "Politics",
-      "title": "This Republican voted to convict Trump. Now he's up for reelection. Can he survive?",
-      "link": "https://www.npr.org/2026/05/16/nx-s1-5808979/louisiana-senate-cassidy-trump",
-      "date": "Sat, 16 May 2026 05:00:00 -0400"
+      "title": "One clinic tracks the heavy toll Trump's immigration crackdown takes on mental health",
+      "link": "https://www.npr.org/2026/05/17/nx-s1-5779576/immigration-ice-cbp-mental-health-children",
+      "date": "Sun, 17 May 2026 07:00:00 -0400"
     },
     {
       "category": "Politics",
-      "title": "Supreme Court is death knell for Virginia's Democratic-friendly congressional maps",
-      "link": "https://www.npr.org/2026/05/15/nx-s1-5823911/supreme-court-virginia-redistricting",
-      "date": "Fri, 15 May 2026 18:58:42 -0400"
+      "title": "How a CEO and Trump donor is weaponizing tariffs against his rivals",
+      "link": "https://www.npr.org/2026/05/17/nx-s1-5726366/ceo-trump-donor-quartz-kitchen-countertop-tariffs",
+      "date": "Sun, 17 May 2026 05:00:00 -0400"
     },
     {
       "category": "Politics",
-      "title": "Under Trump, State Department language on migration echoes that of white nationalists",
-      "link": "https://www.npr.org/2026/05/15/nx-s1-5819738/under-trump-state-department-language-on-migration-echoes-that-of-white-nationalists",
-      "date": "Fri, 15 May 2026 17:29:00 -0400"
+      "title": "New burn bans and Trump's battle with immigration and DEI are impacting forest fires",
+      "link": "https://www.npr.org/2026/05/17/nx-s1-5777660/forest-service-wildfire-safety-prevention-trump-administration",
+      "date": "Sun, 17 May 2026 05:00:00 -0400"
     },
     {
       "category": "Politics",
-      "title": "Colorado's Democratic governor will let Trump ally Tina Peters out of prison early",
-      "link": "https://www.npr.org/2026/05/15/nx-s1-5690286/tina-peters-polis-commutation-trump",
-      "date": "Fri, 15 May 2026 16:45:00 -0400"
+      "title": "New York Magazine reviewing work of writer facing plagiarism allegations",
+      "link": "https://www.npr.org/2026/05/17/nx-s1-5824503/new-york-magazine-review-ross-barkan",
+      "date": "Sun, 17 May 2026 00:23:48 -0400"
     },
     {
       "category": "Politics",
-      "title": "The Trump administration is planning a prayer event on the National Mall. All but one of the speakers is Christian",
-      "link": "https://www.npr.org/2026/05/15/g-s1-122276/the-trump-administration-is-planning-a-prayer-event-on-the-national-mall-all-but-one-of-the-speakers-is-christian",
-      "date": "Fri, 15 May 2026 14:07:32 -0400"
+      "title": "Louisiana senator who voted to convict Trump loses Republican primary",
+      "link": "https://www.npr.org/2026/05/16/nx-s1-5824533/bill-cassidy-lost-louisiana-primary-letlow-trump",
+      "date": "Sat, 16 May 2026 23:02:34 -0400"
     },
     {
       "category": "Politics",
-      "title": "Colorado governor says he will grant clemency to Trump-aligned election conspiracy theorist",
-      "link": "https://www.politico.com/news/2026/05/15/colorado-clemency-trump-election-conspiracy-theorist-00924870",
-      "date": "Fri, 15 May 2026 16:58:58 EST"
+      "title": "Bill Cassidy\u2019s fall is a warning sign for other Trump enemies",
+      "link": "https://www.politico.com/news/2026/05/17/trump-revenge-cassidy-louisiana-senate-00925408",
+      "date": "Sat, 16 May 2026 23:29:19 EST"
     },
     {
       "category": "Politics",
-      "title": "Keisha Lance Bottoms\u2019 lead is making some Georgia Democrats uneasy",
-      "link": "https://www.politico.com/news/2026/05/15/keisha-lance-bottoms-georgia-governor-democrats-00922677",
-      "date": "Fri, 15 May 2026 04:00:00 EST"
+      "title": "Bill Cassidy loses Senate primary in another major win for Trump",
+      "link": "https://www.politico.com/news/2026/05/16/cassidy-loses-louisiana-senate-primary-00925399",
+      "date": "Sat, 16 May 2026 21:50:34 EST"
     },
     {
       "category": "Politics",
-      "title": "The nation\u2019s cartoonists on the week in politics",
-      "link": "https://www.politico.com/gallery/2026/05/15/the-nations-cartoonists-on-the-week-in-politics-00922365",
-      "date": "Fri, 15 May 2026 04:00:00 EST"
+      "title": "In the birthplace of Civil Rights Movement, groups rally to defend Black political representation",
+      "link": "https://www.politico.com/news/2026/05/16/civil-rights-movement-groups-rally-voting-rights-supreme-court-alabama-00925388",
+      "date": "Sat, 16 May 2026 16:19:39 EST"
     },
     {
       "category": "Politics",
-      "title": "Reza Pahlavi on Trump, Iran and whether the regime will ever fall",
-      "link": "https://www.politico.com/video/2026/05/14/reza-pahlavi-on-trump-iran-and-whether-the-regime-will-ever-fall-2051869",
-      "date": "Thu, 14 May 2026 22:59:00 EST"
+      "title": "Cassidy defiant as Trump's revenge campaign closes in",
+      "link": "https://www.politico.com/news/2026/05/16/cassidy-trump-louisiana-senate-00925256",
+      "date": "Sat, 16 May 2026 10:31:36 EST"
     },
     {
       "category": "Politics",
-      "title": "Bruce Blakeman\u2019s solar phase",
-      "link": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/05/14/bruce-blakeman-green-energy-solar-00922292",
-      "date": "Thu, 14 May 2026 16:12:40 EST"
+      "title": "Poll: Israel is dividing Republicans, too",
+      "link": "https://www.politico.com/news/2026/05/16/poll-israel-aipac-gop-divides-trump-00919073",
+      "date": "Sat, 16 May 2026 09:00:00 EST"
     },
     {
       "category": "Space",
-      "title": "Astronomers find interstellar comet 3I/ATLAS hiding in images taken before its official discovery",
-      "link": "https://www.space.com/astronomy/comets/astronomers-find-interstellar-comet-3i-atlas-hiding-in-images-taken-before-its-official-discovery",
-      "date": "Sat, 16 May 2026 10:00:00 +0000"
+      "title": "Get $341 off the limited X edition of the Vaonis Vespera II at Walmart",
+      "link": "https://www.space.com/stargazing/skywatching-kit/get-usd341-off-the-limited-x-edition-of-the-vaonis-vespera-ii-at-walmart",
+      "date": "Sat, 16 May 2026 18:00:00 +0000"
     },
     {
       "category": "Space",
-      "title": "The devil may wear Prada on Earth, but NASA Artemis astronauts will on the moon. Here's why.",
-      "link": "https://www.space.com/entertainment/the-devil-may-wear-prada-on-earth-but-nasa-artemis-astronauts-will-on-the-moon-heres-why",
-      "date": "Fri, 15 May 2026 21:03:15 +0000"
+      "title": "With the Vespera III and Vespera Pro 2, telescope-maker Vaonis unveils its sharpest optics yet",
+      "link": "https://www.space.com/stargazing/skywatching-kit/with-the-vespera-iii-and-vespera-pro-2-telescope-maker-vaonis-unveils-its-sharpest-optics-yet",
+      "date": "Sat, 16 May 2026 17:00:00 +0000"
     },
     {
       "category": "Space",
-      "title": "'Battlestar Galactica: Scattered Hopes' is a relentlessly oppressive roguelite inspired by FTL",
-      "link": "https://www.space.com/entertainment/space-games/battlestar-galactica-scattered-hopes-is-a-relentlessly-oppressive-roguelite-inspired-by-ftl",
-      "date": "Fri, 15 May 2026 19:00:00 +0000"
+      "title": "This Week In Space podcast: Episode 210 \u2014 ESCAPADES at Mars",
+      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-210-escapades-at-mars",
+      "date": "Sat, 16 May 2026 14:43:45 +0000"
     },
     {
       "category": "Space",
-      "title": "The Canon EOS R5 Mark II is our choice as the best-resolution Canon camera \u2013 it's perfect for astrophotography and is $501 off in this Walmart deal",
-      "link": "https://www.space.com/technology/the-canon-eos-r5-mark-ii-is-our-choice-as-the-best-resolution-canon-camera-its-perfect-for-astrophotography-and-is-usd501-off-in-this-walmart-deal",
-      "date": "Fri, 15 May 2026 18:00:00 +0000"
+      "title": "New moon of May 2026 brings stunning views of the Milky Way, Venus and Mars",
+      "link": "https://www.space.com/stargazing/new-moon-of-may-2026-brings-stunning-views-of-the-milky-way-venus-and-mars",
+      "date": "Sat, 16 May 2026 13:00:00 +0000"
     },
     {
       "category": "Space",
-      "title": "Mars orbiter captures striking images of 'chaos and craters' carved by ancient floods",
-      "link": "https://www.space.com/astronomy/mars/mars-orbiter-captures-striking-images-of-chaos-and-craters-carved-by-ancient-floods",
-      "date": "Fri, 15 May 2026 16:00:00 +0000"
+      "title": "NASA's Psyche spacecraft is flying to a metal asteroid. So, why did it just visit Mars?",
+      "link": "https://www.space.com/space-exploration/asteroid-comet-missions/nasas-psyche-spacecraft-is-flying-to-a-metal-asteroid-so-why-did-it-just-visit-mars",
+      "date": "Sat, 16 May 2026 12:00:00 +0000"
     },
     {
       "category": "Space",
